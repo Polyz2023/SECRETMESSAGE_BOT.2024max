@@ -1,0 +1,14 @@
+{
+  "name": "sm_bot.2024max",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "2024MAX",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "telegraf": "^4.16.3"
+  }
+}
